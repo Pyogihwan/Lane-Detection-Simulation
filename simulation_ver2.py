@@ -73,7 +73,7 @@ def handle_signal(signum, frame):
     sys.exit(0)
 
 if __name__ == '__main__':
-    video_path = r"./Lane-lines-detection-using-Python-and-OpenCV/videoAWS_scaled.mp4"  # 비디오 파일 경로를 입력하세요
+    video_path = r"./videoAWS_scaled.mp4"  # 비디오 파일 경로를 입력하세요
     cap = cv2.VideoCapture(video_path)
 
     if not cap.isOpened():
