@@ -9,8 +9,6 @@
 
 1. **ROI (Region of Interest) 설정**
 2. **Gaussian Blur**
-3. **Canny Edge Detection**
 4. **Perspective Transform**
 5. **RGB to HSV 변환**
 6. **White/Yellow Filtering**
-7. **Position Calculating**
